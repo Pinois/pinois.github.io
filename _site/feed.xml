@@ -7,6 +7,18 @@
     <atom:link href="http://pinois.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>I&#39;m back bitchez</title>
+        
+        
+          <description>&lt;p&gt;I really want to nail this jekyll thing.&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 02 Jan 2017 10:15:00 +0100</pubDate>
+        <link>http://pinois.github.io/2017/test/</link>
+        <guid isPermaLink="true">http://pinois.github.io/2017/test/</guid>
+      </item>
+    
+      <item>
         <title>Hello World!</title>
         
         

@@ -4,6 +4,7 @@ permalink: about/
 profile: true
 ---
 
-What's up?
+Hey, my name is Loïc, and i'm a musician and developer who currently works in Bruxelles.
+Ping me 
 
 {% include footer.html %}

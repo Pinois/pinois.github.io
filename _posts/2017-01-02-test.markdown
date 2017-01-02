@@ -1,0 +1,11 @@
+---
+title:  "I'm back bitchez"
+date:   2017-01-02 9:15:00
+description: Just getting back on track with Jekyll
+---
+
+I really want to nail this jekyll thing.
+
+Here is a picture of me at prom night.
+
+[joke, it's just a dog]({{ site.url }}/assets/images/dog.png)
