@@ -1,0 +1,30 @@
+---
+title:  "Rebirth - 100 days of code"
+date:   2017-01-02 21:00:00
+description: Trying something else
+---
+
+<img src="{{ site.baseurl }}assets/images/nerd.jpg"/>
+
+
+Hey there, it's been a while.
+
+So initialy I wanted to start this blog to share a little bit more about my first work as a Junior Front End Developer, and more specifically my TypeScript learning process.
+Unfortunately, I "kinda" forgot about the idea because there's so little time in a developer's life... ;)
+
+But still, I really want to document my future learning process, as it may be usefull to somebody else later on the internet.
+
+Last week, I ran across <a target="_blank" href="https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.twrx66kot">this Medium article</a> on 
+<a target="_blank" href="https://www.freecodecamp.com">Free Code Camp</a> newsletter, which basically challenge you to do 1 hour of coding for 100 days. 
+The timing was perfect (the new year resolutions and stuff..) so I decided to give it a try.
+I already code everyday as my day job, but lately i've been interested about the whole process to create new habits, which can be very powerfull. 
+I'm currently <a target="_blank" href="https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X">this book</a> about it. 
+
+Also, besides my job, I rarely coded on a side project, which is a shame in some way.
+Part of the challenge is to document and share with others the process behind those 100 days of code. <br/>
+So it's kinda cool because i'm going to use this blog again yeyyy!
+
+Let's do this bruthas & sistas.
+
+<iframe src="//giphy.com/embed/l0MYJQ6iZYNw3A8Du?hideSocial=true" width="480" height="270" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
+

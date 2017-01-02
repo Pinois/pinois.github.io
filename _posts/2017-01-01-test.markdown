@@ -1,6 +1,6 @@
 ---
 title:  "I'm back bitchez"
-date:   2017-01-02 9:15:00
+date:   2017-01-01 9:15:00
 description: Just getting back on track with Jekyll
 ---
 
