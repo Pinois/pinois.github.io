@@ -8,4 +8,4 @@ I really want to nail this jekyll thing.
 
 Here is a picture of me at prom night.
 
-[joke, it's just a dog]({{ site.url }}/assets/images/dog.png)
+<img src="{{ site.baseurl }}assets/images/dog.png"/>
