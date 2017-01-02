@@ -16,9 +16,9 @@ But still, I really want to document my future learning process, as it may be us
 
 Last week, I ran across <a target="_blank" href="https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.twrx66kot">this Medium article</a> on 
 <a target="_blank" href="https://www.freecodecamp.com">Free Code Camp</a> newsletter, which basically challenge you to do 1 hour of coding for 100 days. 
-The timing was perfect (the new year resolutions and stuff..) so I decided to give it a try.
+The timing was perfect so why not give it a try.
 I already code everyday as my day job, but lately i've been interested about the whole process to create new habits, which can be very powerfull. 
-I'm currently <a target="_blank" href="https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X">this book</a> about it. 
+I'm currently reading <a target="_blank" href="https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X">this book</a> about it. 
 
 Also, besides my job, I rarely coded on a side project, which is a shame in some way.
 Part of the challenge is to document and share with others the process behind those 100 days of code. <br/>
