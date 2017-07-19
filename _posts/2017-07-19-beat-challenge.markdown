@@ -7,7 +7,7 @@ description: Trying something else, AGAIN
 <img src="{{ site.baseurl }}assets/images/doggo.png"/>
 
 
-Coucou tout le monde! 🌝
+Coucou tout le monde!
 
 J'ai décidé de me donner un petit défi, et de partager ça avec vous.
 
@@ -24,7 +24,7 @@ Dans le milieu musical, j'ai l'impression qu'on a toujours envie de rendre les c
 
 Chaque démo sera publié sur mon <a href="https://soundcloud.com/pinois" target="_blank">soundcloud personnel</a>.
 
-Pas de restrictions de style en vue, c'est vraiment une zone d'expérimentation et d'apprentissage. Et vos feedbacks sont évidemment plus que bienvenus. Ils me sont même nécessaires. 🙏
+Pas de restrictions de style en vue, c'est vraiment une zone d'expérimentation et d'apprentissage. Et vos feedbacks sont évidemment plus que bienvenus. Ils me sont même nécessaires.
 
 La seule règle sera la consitance. <b>L'idée initiale est de publier quelque chose, chaque jour.</b> Néanmoins, on est pas des chiens. Il est possible de sauter un jour par semaine. Mais pas deux d'affilée. 
 
@@ -40,6 +40,6 @@ Et pour commencer, voici la première démo.
 
 J'ai enfin compris comment envoyer du midi dans mon minilogue à partir d'ableton. C'est le premier clip midi que j'ai sorti en cliquant au hasard. 
 
-<b>Merci, et à bientôt!</b> ✌️
+<b>Merci, et à bientôt!</b>
 
 PS : ce challenge est inspiré du challenge de 100 days of code que j'ai essayé début d'année. Pour plus d'infos, <a target="_blank" href="https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.twrx66kot">c'est par ici.</a>
