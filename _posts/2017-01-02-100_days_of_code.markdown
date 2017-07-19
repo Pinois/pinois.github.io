@@ -6,7 +6,6 @@ description: Trying something else
 
 <img src="{{ site.baseurl }}assets/images/nerd.jpg"/>
 
-
 Hey there, it's been a while.
 
 So initialy I wanted to start this blog to share a little bit more about my first work as a Junior Front End Developer, and more specifically my TypeScript learning process.
