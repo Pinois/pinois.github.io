@@ -18,7 +18,7 @@ Donc... l'idée ici est de <b>publier chaque jour une petite démo, pendant 100 
 
 Pourquoi rendre cette petite expérimentation publique, au lieu de faire ça dans mon coin? 
 
-<b>Tout simplement pour arrêter de chier dans la colle.</b> 
+<b>Tout simplement pour arrêter de chier dans la colle.</b>  
 
 Dans le milieu musical, j'ai l'impression qu'on a toujours envie de rendre les choses plus compliquées qu'elle le sont vraiment. <b>Alors qu'il n'y a vraiment aucune règle, au final.</b>
 
